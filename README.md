@@ -1,6 +1,6 @@
 # SENG265-Term-Project
 
-For the final proect file, click [here](https://github.com/n4m3name/SENG265-Term-Project/blob/main/TPP-P2-V00907185-Evan-Strasdin.ipynb)
+To read, click [here](https://github.com/n4m3name/SENG265-Term-Project/blob/main/TPP-P2-V00907185-Evan-Strasdin.ipynb)
 
 A comprehensive documentation of learning experiences and code examples from Software Development Methods (SENG 265) course.
 
